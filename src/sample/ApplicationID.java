@@ -1,3 +1,4 @@
+package sample;
 
 /*
  * Copyright (c) 2018 SafeNet. All rights reserved.

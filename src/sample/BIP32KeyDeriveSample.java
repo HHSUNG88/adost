@@ -1,3 +1,4 @@
+package sample;
 
 import com.safenetinc.jcprov.CK_ATTRIBUTE;
 import com.safenetinc.jcprov.CK_BBOOL;

@@ -1,3 +1,4 @@
+package sample;
 import com.safenetinc.jcprov.*;
 import com.safenetinc.jcprov.constants.*;
 import com.safenetinc.jcprov.params.CK_AES_GCM_PARAMS;

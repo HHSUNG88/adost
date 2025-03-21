@@ -1,4 +1,7 @@
+package sample;
+
 /*
+
  * Copyright (c) 2018 SafeNet. All rights reserved.
  *
  * This file contains information that is proprietary to SafeNet and may not be

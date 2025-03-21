@@ -1,3 +1,4 @@
+package sample;
 
 import com.safenetinc.jcprov.CKR_Exception;
 import com.safenetinc.jcprov.CK_ATTRIBUTE;

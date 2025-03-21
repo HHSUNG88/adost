@@ -1,3 +1,4 @@
+package sample;
 
 import com.safenetinc.jcprov.CK_C_INITIALIZE_ARGS;
 import com.safenetinc.jcprov.CK_SESSION_HANDLE;
