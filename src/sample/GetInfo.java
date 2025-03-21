@@ -39,10 +39,10 @@ public class GetInfo
     /** main execution method */
     public static void main(String[] args)
     {
-        long slotId = -1;
-        boolean bGetGeneralInfo = false;
-        boolean bGetSlotInfo = false;
-        boolean bGetTokenInfo = false;
+        long slotId = 0;
+        boolean bGetGeneralInfo = true;
+        boolean bGetSlotInfo = true;
+        boolean bGetTokenInfo = true;
 
         /*
          * process command line arguments
