@@ -41,7 +41,7 @@ public class GetInfo
     {
         long slotId = 0;
         boolean bGetGeneralInfo = false;
-        boolean bGetSlotInfo = true;
+        boolean bGetSlotInfo = false;
         boolean bGetTokenInfo = true;
 
         /*
