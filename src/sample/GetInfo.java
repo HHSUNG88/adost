@@ -40,7 +40,7 @@ public class GetInfo
     public static void main(String[] args)
     {
         long slotId = 0;
-        boolean bGetGeneralInfo = true;
+        boolean bGetGeneralInfo = false;
         boolean bGetSlotInfo = false;
         boolean bGetTokenInfo = true;
 
